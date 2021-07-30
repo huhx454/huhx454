@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @huhx454
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... coding python
+- 🌱 I’m currently learning ... python and js
+- 💞️ I’m looking to collaborate on ... nothing..
 - 📫 How to reach me ... https://discord.gg/K3HjUQmn
 
 <!---
